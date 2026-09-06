@@ -2,6 +2,8 @@
 
 A simple Python-based Stock Portfolio Tracker developed as part of the CodeAlpha Python Programming Internship.
 
+[![Follow me on GitHub](https://img.shields.io/github/followers/Seshan24?label=Follow%20me%20on%20GitHub&style=social)](https://github.com/Seshan24)
+
 ## Features
 
 - Displays available stocks
